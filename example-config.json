@@ -1,28 +1,28 @@
 {
   "discord_client": {
-    "id": "xxxxxxxxxx",
-    "token": "xxxxxxxxxx",
-    "secret": "xxxxxxxxxx",
-    "prefix": "lb!"
+    "id": "l",
+    "token": "",
+    "secret": "",
+    "prefix": "!"
   },
   "web": {
-    "domain_with_protocol": "xxxxxxxxxx",
+    "domain_with_protocol": "",
     "port": 5000,
     "ratelimit": 100,
     "recaptcha_v2": {
-      "site_key": "xxxxxxxxxx",
-      "secret_key": "xxxxxxxxxx"
+      "site_key": "",
+      "secret_key": ""
     }
   },
-  "mongo_url": "xxxxxxxxxx",
+  "mongo_url": "",
   "server": {
-    "id": "xxxxxxxxxx",
-    "invite": "https://discord.gg/sQQFSnQhdt",
-    "like_log": "xxxxxxxxxx",
-    "botOwners": "xxxxxxxxxx",
-    "mod_log_id": "xxxxxxxxxx",
-    "website_logs": "xxxxxxxxxx",
-    "admin_user_ids": "xxxxxxxxxx",
+    "id": "847346238121967649",
+    "invite": "https://discord.gg/Y9xyfS7shN",
+    "like_log": "863333626246070292",
+    "botOwners": "863333626246070292",
+    "mod_log_id": "863333626246070292",
+    "website_logs": "863333626246070292",
+    "admin_user_ids": "835820984379375647",
     "role_ids": {
       "bot": "xxxxxxxxxx",
       "verified": "xxxxxxxxxx",
@@ -88,18 +88,12 @@
       "disco",
       "discordrb",
       "discord-rs",
-      "Serenity",
-      "Twilight",
-      "AckCord",
-      "Sword",
-      "Detritus",
-      "discordeno",
       "Harmony"
     ],
-    "max_bot_tags": 6,
+    "max_bot_tags": 3,
     "max_owners_count": 3,
     "max_summary_length": 140,
     "min_description_length": 300,
-    "max_description_length": 10000
+    "max_description_length": 1000
   }
 }
