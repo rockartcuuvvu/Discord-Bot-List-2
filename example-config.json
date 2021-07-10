@@ -14,7 +14,7 @@
       "secret_key": "6LedfYgbAAAAAFvkOo4HF0KJg2ycEbnCBl7HjIu9"
     }
   },
-  "mongo_url": "",
+  "mongo_url": "mongodb+srv://new:new@cluster0.qj6cr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "server": {
     "id": "847346238121967649",
     "invite": "https://discord.gg/Y9xyfS7shN",
