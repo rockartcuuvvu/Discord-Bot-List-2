@@ -1,8 +1,8 @@
 {
   "discord_client": {
-    "id": "l",
+    "id": "858075150275575819",
     "token": "",
-    "secret": "",
+    "secret": "ygS24pzbq3z-ydincphL47wgM83rPShe",
     "prefix": "!"
   },
   "web": {
@@ -10,8 +10,8 @@
     "port": 5000,
     "ratelimit": 100,
     "recaptcha_v2": {
-      "site_key": "",
-      "secret_key": ""
+      "site_key": "6LedfYgbAAAAAIObhfCjqkDgZ7UMf8EbY321xxl4",
+      "secret_key": "6LedfYgbAAAAAFvkOo4HF0KJg2ycEbnCBl7HjIu9"
     }
   },
   "mongo_url": "",
