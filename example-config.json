@@ -24,17 +24,17 @@
     "website_logs": "863333626246070292",
     "admin_user_ids": "835820984379375647",
     "role_ids": {
-      "bot": "xxxxxxxxxx",
-      "verified": "xxxxxxxxxx",
-      "unverified": "xxxxxxxxxx",
-      "bot_verifier": "xxxxxxxxxx",
-      "bot_developer": "xxxxxxxxxx",
-      "cert_user": "xxxxxxxxxx",
-      "cert_bot": "xxxxxxxxxx"
+      "bot": "863335422238916608",
+      "verified": "863335467935203328",
+      "unverified": "863335513657442334",
+      "bot_verifier": "863335693644464158",
+      "bot_developer": "863335748145250345",
+      "cert_user": "863335848603156540",
+      "cert_bot": "863335911026982942"
     },
     "botreviewer": [
-      "user-id-1",
-      "user-id-2"
+      "835820984379375647",
+      "835820984379375647"
     ]
   },
   "bot_options": {
